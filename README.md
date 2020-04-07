@@ -1,5 +1,4 @@
-# OAuth Demo by Jan Millena J Villaflores
-
+# OAuth Demo by Justin Lloyd Palma
 ## Part 1: Setting up NodeJS environment
 ```bash
 > npm init -y
